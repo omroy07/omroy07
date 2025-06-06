@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science student specializing in Artificial Intelligence and Machine Learning at VIT Bhopal University. Passionate about problem-solving, coding, and building innovative AI-driven applications.<br>•	🔭 Currently working on: AI/ML projects and open-source contributions.<br><br>•	🌱 Learning: Advanced AI techniques, Web Development, and Cloud Computing.<br><br>•	💡 Interests: AI, Machine Learning, Web Development, and IoT.<br><br>•	💬 Ask me about: C++, Python, AI/ML, and Web Development.<br><br>•	📫 Reach me at: omroysatna2005@gmail.com <br><br>• My Portfolio : https://portfolio-eiv7.vercel.app/
+I'm a Computer Science student specializing in Artificial Intelligence and Machine Learning at VIT Bhopal University. Passionate about problem-solving, coding, and building innovative AI-driven applications.<br>•	🔭 Currently working on: AI/ML projects and open-source contributions.<br><br>•	🌱 Learning: Advanced AI techniques, Web Development, and Cloud Computing.<br><br>•	💡 Interests: AI, Machine Learning, Web Development, and IoT.<br><br>•	💬 Ask me about: C++, Python, AI/ML, and Web Development.<br><br>•	📫 Reach me at: omroysatna2005@gmail.com <br><br>• 🔍 My Portfolio : https://portfolio-eiv7.vercel.app/
 
 
 ## 🌐 Socials:
