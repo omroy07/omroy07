@@ -11,13 +11,10 @@ I’m a Computer Science student specializing in **Artificial Intelligence & Mac
 
 ---
 
-## 🌐 Socials
-
-<p align="center">
-[![Facebook](https://img.shields.io/badge/Facebook-OmRoy-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/omroy.2005) &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-@omroy_2005-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/omroy_2005) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OmRoy-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/om-roy-3b809628a/)
-</p>
+## 🌐 Socials: 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1DfH5w4A8L/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/omroy_2005?igsh=eGZqZWZ6MDJqZjdz) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-roy-3b809628a/)
 
 ---
 
