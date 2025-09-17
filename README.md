@@ -17,7 +17,7 @@ I’m a Computer Science student specializing in **Artificial Intelligence & Mac
 ---
 ## 📊 Badges
 ![GitHub followers](https://img.shields.io/github/followers/omroy07?label=Followers&style=social)
-![GitHub repo stars](https://img.shields.io/github/stars/omroy07?label=Stars&style=social)
+![GitHub stars](https://img.shields.io/github/stars/omroy07?label=Stars&style=social)
 ![GitHub issues](https://img.shields.io/github/issues/omroy07?label=Issues&style=social)
 ![GitHub forks](https://img.shields.io/github/forks/omroy07?label=Forks&style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/omroy07?label=Watchers&style=social)
