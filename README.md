@@ -6,6 +6,7 @@ I’m a Computer Science student specializing in **Artificial Intelligence & Mac
 - 💬 Ask me about: C++, Python, AI/ML, Web Development  
 - 📫 Reach me at: [omroysatna2005@gmail.com](mailto:omroysatna2005@gmail.com)  
 - 🔍 Portfolio: [portfolio-eiv7.vercel.app](https://portfolio-eiv7.vercel.app/)
+- 🌐 Website : [Mentroid](www.mentroid.co.in)
 ---
 ## 🌐 Socials: 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1DfH5w4A8L/) 
